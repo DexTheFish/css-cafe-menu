@@ -21,6 +21,7 @@ h2 {
 }
 
 body {
+  padding: 20px;
   font-family: sans-serif, "Franklin Gothic Medium", "Arial Narrow", Arial;
   background-image: url(https://cdn.freecodecamp.org/curriculum/css-cafe/beans.jpg);
 }
@@ -39,7 +40,14 @@ hr {
   border-color: brown;
 }
 
+.bottom-line {
+  margin-top: 25px;
+}
+
 .item p {
+  font-size: 18px;
+  margin-top: 5px;
+  margin-bottom: 5px;
   display: inline-block;
 }
 .flavor,
