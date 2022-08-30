@@ -4,7 +4,17 @@ p {
   text-align: center;
 }
 
+.established {
+  font-style: italic;
+}
+
+h1,
+h2 {
+  font-family: Impact, serif;
+}
+
 body {
+  font-family: sans-serif, "Franklin Gothic Medium", "Arial Narrow", Arial;
   background-image: url(https://cdn.freecodecamp.org/curriculum/css-cafe/beans.jpg);
 }
 .menu {
