@@ -17,7 +17,8 @@ body {
 .item p {
   display: inline-block;
 }
-.flavor {
+.flavor,
+.dessert {
   text-align: left;
   width: 74%;
 }
