@@ -39,6 +39,10 @@ body {
 .address {
   margin-bottom: 5px;
 }
+img {
+  display: block;
+  margin: auto;
+}
 
 hr {
   height: 2px;
